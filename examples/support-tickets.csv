@@ -1,0 +1,11 @@
+ticket_id,topic,language,response_seconds,resolved
+T001,login,ru,12,yes
+T002,payment,kk,35,yes
+T003,login,en,,no
+T004,profile,ru,18,yes
+T005,payment,kk,unknown,no
+T006,export,en,41,yes
+T006,export,en,41,yes
+T007,profile,ru,22,
+T008,login,kk,14,yes
+T009,export,en,63,no
